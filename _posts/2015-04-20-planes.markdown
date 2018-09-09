@@ -1,5 +1,5 @@
 ---
-title:  "Planes are cool!"
+title:  "Planes are cool!!"
 subtitle: "The Fly!"
 author: "nad"
 avatar: "img/authors/nadun.jpg"
