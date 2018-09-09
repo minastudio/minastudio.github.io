@@ -4,7 +4,7 @@ description: ?
 keywords: Modern, Blogging, Fun
 author: mina
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "minastudio.github.io" # the base hostname & protocol for your site
 gems: [jekyll-paginate,jekyll-seo-tag,jekyll-sitemap]
 paginate: 3
 google_analytics: 'UA-XXXXXXX-X'
